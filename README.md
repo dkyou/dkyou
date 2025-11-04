@@ -12,17 +12,18 @@
 ### 🌊 今日摸鱼语录
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机语录"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=500&lines=今日的目标：少写点代码;多喝点咖啡，多摸点鱼;摸鱼使我快乐，工作让我清醒;代码能跑就行，别问为什么" alt="摸鱼语录"/>
 </div>
 
 ---
 
 ### ☕ 关于我
 - 🔭 正在研究：**语言服务、应急语言体系、RAG 检索增强、机器人控制**
-- 🌱 最近在学习：**Hexo 博客、MoveIt 规划、ROS 遥操作**
-- 🧩 兴趣领域：AI / 语言服务 / 机器人 / 教育科技
-- 🗺 梦想①：在摸鱼中成为全栈学者 🧠  
-- 🗺 梦想②：自己“实现”一台计算机，从零开始写 CPU、操作系统、编译器与网络协议栈...
+- 🌱 最近在学习：**MoveIt 规划、ROS 遥操作**
+- 🧩 兴趣领域：LINUX/ 驱动开发/ AI / 语言服务 / 机器人 / 教育科技
+- 🗺 梦想①：自己“实现”一台计算机，从零开始写 CPU、操作系统、编译器...
+- 🎯 梦想②：在摸鱼中成为全栈学者 🧠  
+- 🎯 梦想③：躺平...
 
 ---
 
@@ -44,7 +45,7 @@
 - 💻 [前端开发](/tags/backend-development)
 - 🏠 [搭建博客](/tags/搭建博客)
 
-> _PS：有的坑还没填上..._
+> _PS：博客功能还待完善..._
 
 ---
 
@@ -85,7 +86,7 @@
 
 📧 邮箱：<b>dkyou@outlook.com</b>  
 🌐 博客：[blog-dky](https://github.com/dkyou/blog-dky)  
-💬 格言：摸鱼使我快乐，代码让我清醒。
+💬 格言：摸鱼使我快乐，代码让我眼花。
 
 </div>
 
