@@ -1,4 +1,3 @@
-<!-- 🌊 个人主页 · 动态版 README.md -->
 <h2 align="center">🐟 又是摸鱼的一天 👋😎</h2>
 <p align="center">我是 <b>摸鱼大王</b>，代码与摸鱼并行的开发者。</p>
 
@@ -11,7 +10,6 @@
 ---
 
 ### 🌊 今日摸鱼语录
-> “垂死病中惊坐起，今日依旧写代码。”
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机语录"/>
@@ -54,14 +52,16 @@
 
 <div align="center">
 
-  <!-- GitHub 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dkyou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- 第一行：统计 + 语言 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dkyou&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyou&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" height="170" />
 
-  <!-- 常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <!-- 连续提交天数 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkyou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- 第二行：连续提交天数 -->
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkyou&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" height="160" />
 
 </div>
 
