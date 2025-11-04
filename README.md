@@ -1,41 +1,98 @@
-## 🐟 又是摸鱼的一天 👋😎  
-我是 **摸鱼大王**
+<!-- 🌊 个人主页 · 动态版 README.md -->
+<h2 align="center">🐟 又是摸鱼的一天 👋😎</h2>
+<p align="center">我是 <b>摸鱼大王</b>，代码与摸鱼并行的开发者。</p>
 
 <div align="center">
-  <img src="https://img.picgo.net/2024/04/07/3-16092G45530-519d1b079cde09efa6.jpeg" 
-       alt="摸鱼头像" 
+  <img src="https://img.picgo.net/2024/04/07/3-16092G45530-519d1b079cde09efa6.jpeg"
+       alt="头像"
        style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
-> “今天又是摸鱼的一天。”  
-> —— 摸鱼不止，代码常新 🧠
+---
+
+### 🌊 今日摸鱼语录
+> “垂死病中惊坐起，今日依旧写代码。”
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机语录"/>
+</div>
 
 ---
 
-## 🏷 我的标签  
-这里可以找到我不同主题的文章与项目👇
+### ☕ 关于我
+- 🔭 正在研究：**语言服务、应急语言体系、RAG 检索增强、机器人控制**
+- 🌱 最近在学习：**Hexo 博客、MoveIt 规划、ROS 遥操作**
+- 🧩 兴趣领域：AI / 语言服务 / 机器人 / 教育科技
+- 🗺 梦想①：在摸鱼中成为全栈学者 🧠  
+- 🗺 梦想②：自己“实现”一台计算机，从零开始写 CPU、操作系统、编译器与网络协议栈...
+
+---
+
+### 💼 工作 / 学习经历
+- 🎓 [USTB](https://www.ustb.edu.cn/) &emsp; *(2023.09 – 2026.07)*  
+  > - 工作岗位：滥竽充数  
+  > - 工作内容：摆烂  
+  > - 工作技能：<kbd>Ctrl</kbd> + <kbd>C</kbd> → <kbd>Ctrl</kbd> + <kbd>V</kbd>
+
+---
+
+### 🏷 我的标签
+> 以下是我在不同坑位的折腾记录 👇（点击即前往分类）
 
 - 🤖 [Linux](/tags/linux)
 - 🌐 [驱动开发](/tags/嵌入式)
-- 📊 [我的刷题笔记](/tags/c++)
+- 📊 [刷题笔记](/tags/c++)
 - ☁️ [旅行杂记](/tags/旅行杂记)
 - 💻 [前端开发](/tags/backend-development)
 - 🏠 [搭建博客](/tags/搭建博客)
 
-> _PS：目前只是占坑中，功能开发进度 0% ..._
+> _PS：有的坑还没填上..._
 
 ---
 
-## 🩺 我的每天状态  
-> 垂死病中惊坐起，今日依旧写代码。
+### 📈 我的 GitHub 动态
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/dkyou/ImageHostingdku/img/lanyangyang22024-10-16%2016_05_17.png" 
-       alt="懒羊羊" 
-       width="300">
+
+  <!-- GitHub 统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dkyou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <!-- 常用语言卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <!-- 连续提交天数 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkyou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-🌱 _摸鱼使我快乐，代码让我清醒。_  
-📫 **欢迎交流：** [@dkyou](https://github.com/dkyou)
+### 🐍 我的摸鱼轨迹
+> 这条小蛇会根据我的提交网格自动更新 🐍  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkyou/dkyou/output/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dkyou/dkyou/output/light.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dkyou/dkyou/output/light.svg" />
+  </picture>
+</div>
+
+---
+
+### 📫 联系方式
+<div align="center">
+
+📧 邮箱：<b>dkyou@outlook.com</b>  
+🌐 博客：[blog-dky](https://github.com/dkyou/blog-dky)  
+💬 格言：摸鱼使我快乐，代码让我清醒。
+
+</div>
+
+---
+
+<!-- 可选增强：需要的话取消注释即可 -->
+<!--
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkyou&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://komarev.com/ghpvc/?username=dkyou&color=blueviolet)
+-->
